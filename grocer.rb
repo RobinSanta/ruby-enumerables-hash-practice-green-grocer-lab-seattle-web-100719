@@ -3,6 +3,7 @@ def consolidate_cart(cart)
   new_cart = []
   cart.each do |element|
     element.each do |fruit, hash|
+      new_cart
 end
 
 def apply_coupons(cart, coupons)
